@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806859598938",
+    "firebase_url": "https://eaton-d65e4.firebaseio.com",
+    "project_id": "eaton-d65e4",
+    "storage_bucket": "eaton-d65e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806859598938:android:00b8ab4c9ddb2fd4",
+        "android_client_info": {
+          "package_name": "com.example.android.eaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806859598938-srk17bcgpgu13f074aanbbg2fkrd9qna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.eaton",
+            "certificate_hash": "a3b9d84e30a00596c872f23fdda01a556deef3fc"
+          }
+        },
+        {
+          "client_id": "806859598938-rh99urjisrkdo2iplgvt300oveuu1ht8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjX2Vx4w5Xs6iAVX3NrgZmp7EPh2p5A8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806859598938-rh99urjisrkdo2iplgvt300oveuu1ht8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
